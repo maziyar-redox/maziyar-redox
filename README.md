@@ -46,7 +46,7 @@
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=maziyar-redox&theme=nord_dark" />
   </a>
   <a href="https://github.com/maziyar-redox">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maziyar-redox&langs_count=10&exclude_repo=&hide=jupyter%20notebook,vim%20script,cmake,makefile,batchfile,emacs%20lisp&layout=default&card_width=699&hide_border=true&theme=dark" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maziyar-redox&langs_count=10&exclude_repo=&hide=jupyter%20notebook,vim%20script,cmake,makefile,batchfile,emacs%20lisp,cuda,gherkin&layout=default&card_width=699&hide_border=true&theme=dark" />
   </a>
 </p>
 </details>
