@@ -11,7 +11,7 @@
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
     </a>
     <a href="https://t.me/Maziyar_red0x">
-        <img src="https://img.shields.io/badge/Kaggle-blue?style=flat-square&logo=telegram" alt="Telegram">
+        <img src="https://img.shields.io/badge/Telegram-blue?style=flat-square&logo=telegram" alt="Telegram">
     </a>
 </p>
 
