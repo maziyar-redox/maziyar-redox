@@ -16,7 +16,6 @@
 </p>
 
 ### Languages
-[![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)](https://github.com/maziyar-redox)
 [![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)](https://github.com/maziyar-redox)
 [![Bash](https://img.shields.io/badge/bash-black?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://github.com/maziyar-redox)
 [![SQL](https://img.shields.io/badge/sql-black?style=for-the-badge&logo=mysql)](https://github.com/maziyar-redox)
@@ -44,9 +43,6 @@
   </a>
   <a href="https://github.com/maziyar-redox">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=maziyar-redox&theme=nord_dark" />
-  </a>
-  <a href="https://github.com/maziyar-redox">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maziyar-redox&langs_count=10&exclude_repo=&hide=jupyter%20notebook,vim%20script,cmake,makefile,batchfile,emacs%20lisp,cuda,gherkin&layout=default&card_width=699&hide_border=true&theme=dark" />
   </a>
 </p>
 </details>
