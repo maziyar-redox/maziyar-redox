@@ -18,12 +18,14 @@
 ### Languages
 [![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)](https://github.com/maziyar-redox)
 [![TypeScript](https://img.shields.io/badge/TypeScript-black?style=for-the-badge&logo=typescript)](https://github.com/maziyar-redox)
+[![NodeJs](https://img.shields.io/badge/NodeJs-black?style=for-the-badge&logo=nodedotjs)](https://github.com/maziyar-redox)
 [![Bash](https://img.shields.io/badge/bash-black?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://github.com/maziyar-redox)
 [![SQL](https://img.shields.io/badge/sql-black?style=for-the-badge&logo=mysql)](https://github.com/maziyar-redox)
 
 ### Technologies & Frameworks
 [![React](https://img.shields.io/badge/react-black?style=for-the-badge&logo=react)](https://github.com/maziyar-redox)
-[![NextJs](https://img.shields.io/badge/nextjs-black?style=for-the-badge)](https://github.com/maziyar-redox)
+[![Redux](https://img.shields.io/badge/redux-black?style=for-the-badge&logo=redux)](https://github.com/maziyar-redox)
+[![NextJs](https://img.shields.io/badge/nextjs-black?style=for-the-badge)](https://github.com/maziyar-redox&logo=nextdotjs)
 [![HTML5](https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5)](https://github.com/maziyar-redox)
 [![CSS3](https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3)](https://github.com/maziyar-redox)
 [![Docker](https://img.shields.io/badge/docker-black?style=for-the-badge&logo=docker)](https://github.com/maziyar-redox)
