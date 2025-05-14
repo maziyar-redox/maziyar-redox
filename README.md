@@ -4,8 +4,8 @@
     <b>Welcome to github page :)</b><br><br>
     <i>
         I'm Maziyar.<br>
-        now im working at Front-end and Back-end position.<br>
-        if you want to contact with me you can contact me with my email : r6.acc.051@gmail.com<br>
+        Currently im working at Front-end and Back-end position.<br>
+        if you want to contact with me you can reach out with my email : r6.acc.051@gmail.com<br>
     </i><br>
     <a href="https://www.linkedin.com/in/maziyar-isanezhad-508a57276/">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
