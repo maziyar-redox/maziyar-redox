@@ -1,0 +1,32 @@
+{
+    "security.workspace.trust.untrustedFiles": "open",
+    "explorer.confirmDelete": false,
+    "prettier.bracketSameLine": true,
+    "prettier.trailingComma": "all",
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "editor.formatOnSave": true,
+    "[javascript]": {
+        "editor.maxTokenizationLineLength": 2500
+    },
+    "workbench.iconTheme": "material-icon-theme",
+    "workbench.colorTheme": "Nord Deep",
+    "editor.fontLigatures": false,
+    "css.lint.unknownAtRules": "ignore",
+    "emmet.includeLanguages": {
+        "javascript": "javascriptreact"
+    },
+    "liveServer.settings.donotShowInfoMsg": true,
+    "git.openRepositoryInParentFolders": "never",
+    "explorer.compactFolders": false,
+    "redhat.telemetry.enabled": true,
+    "prisma.showPrismaDataPlatformNotification": false,
+    "terminal.integrated.defaultProfile.windows": "Command Prompt",
+    "makefile.configureOnOpen": true,
+    "python.analysis.typeCheckingMode": "standard",
+    "python.languageServer": "Pylance",
+    "docker.extension.enableComposeLanguageServer": false,
+    "docker.extension.dockerEngineAvailabilityPrompt": false,
+    "files.exclude": {
+        "**/.git": false
+    },
+}
