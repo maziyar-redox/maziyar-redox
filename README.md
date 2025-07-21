@@ -36,6 +36,10 @@
 [![Tailwindcss](https://img.shields.io/badge/tailwindcss-black?style=for-the-badge&logo=tailwindcss)](https://github.com/maziyar-redox)
 [![Git](https://img.shields.io/badge/git-black?style=for-the-badge&logo=git)](https://github.com/maziyar-redox)
 [![MongoDb](https://img.shields.io/badge/mongodb-black?style=for-the-badge&logo=mongodb)](https://github.com/maziyar-redox)
+[![Sqlite](https://img.shields.io/badge/sqlite-black?style=for-the-badge&logo=sqlite)](https://github.com/maziyar-redox)
+[![Postgresql](https://img.shields.io/badge/postgresql-black?style=for-the-badge&logo=postgresql)](https://github.com/maziyar-redox)
+[![Fastapi](https://img.shields.io/badge/fastapi-black?style=for-the-badge&logo=fastapi)](https://github.com/maziyar-redox)
+[![Django](https://img.shields.io/badge/django-black?style=for-the-badge&logo=django)](https://github.com/maziyar-redox)
 
 ### OS
 [![Linux](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=Linux)](https://github.com/maziyar-redox)
