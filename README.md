@@ -23,6 +23,7 @@
 [![C](https://img.shields.io/badge/Clang-black?style=for-the-badge&logo=c)](https://github.com/maziyar-redox)
 [![C++](https://img.shields.io/badge/C++-black?style=for-the-badge&logo=cplusplus)](https://github.com/maziyar-redox)
 [![Bash](https://img.shields.io/badge/bash-black?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://github.com/maziyar-redox)
+[![Kotlin](https://img.shields.io/badge/kotlin-black?style=for-the-badge&logo=kotlin&logoColor=white)](https://github.com/maziyar-redox)
 [![SQL](https://img.shields.io/badge/sql-black?style=for-the-badge&logo=mysql)](https://github.com/maziyar-redox)
 
 ### Technologies & Frameworks
