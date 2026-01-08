@@ -1,7 +1,7 @@
 <h1 align="center">Hey, everyone! <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/24524555/238178097-766d336d-b87d-44ba-807c-c51de2bc6b4d.gif" width="28px" alt="👋"></h1>
 
 <p align="center">
-    <b>Welcome to github page :)</b><br><br>
+    <b>Welcome to my github page :)</b><br><br>
     <i>
         Just a tech...<br>
         Maybe a polymath in the future<br>
