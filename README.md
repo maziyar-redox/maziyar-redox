@@ -47,22 +47,20 @@
 [![Linux](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=Linux)](https://github.com/maziyar-redox)
 [![Windows](https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=Windows)](https://github.com/maziyar-redox)
 
-<details>
 <p align="center">
   <a href="https://github.com/maziyar-redox">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=maziyar-redox&theme=nord_dark" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=maziyar-redox&theme=swift" />
   </a>
   <a href="https://github.com/maziyar-redox">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=maziyar-redox&theme=nord_dark" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=maziyar-redox&theme=swift" />
   </a>
   <a href="https://github.com/maziyar-redox">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=maziyar-redox&theme=nord_dark" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=maziyar-redox&theme=swift" />
   </a>
   <a href="https://github.com/maziyar-redox">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=maziyar-redox&theme=nord_dark" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=maziyar-redox&theme=swift" />
   </a>
 </p>
-</details>
 
 <p align="center">
   <a href="https://github.com/maziyar-redox">
